@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ipeneyer.github.io/sitemap.html.gz
+Sitemap: https://ipeneyer.github.io/app/sitemap.html.gz
+Sitemap: https://ipeneyer.github.io/assets/sitemap.html.gz
+Sitemap: https://ipeneyer.github.io/css/sitemap.html.gz
+Sitemap: https://ipeneyer.github.io/includes/sitemap.html.gz
+Sitemap: https://ipeneyer.github.io/item/sitemap.html.gz
+Sitemap: https://ipeneyer.github.io/src/sitemap.html.gz
